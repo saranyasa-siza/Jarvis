@@ -60,3 +60,4 @@ Jarvis/
 ├── voice_test.py     # Voice recognition testing
 └── .env              # API keys (not committed)
 ```
+done
